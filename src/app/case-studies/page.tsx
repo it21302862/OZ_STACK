@@ -15,7 +15,7 @@ export default function CaseStudiesPage() {
     <>
       <PageLayout
         title="Case Studies"
-        subtitle="Real solutions we've built for clients. All project data below is placeholder — swap in your actual portfolio when ready."
+        subtitle="Our case studies showcase how we partner with businesses to solve real-world challenges through innovative software solutions. From streamlining operations and automating workflows to building scalable digital platforms, each project reflects our commitment to delivering measurable results and lasting value. The projects displayed here are currently presented as placeholders and will be updated with our growing portfolio of client success stories as they become available."
       >
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {projects.map((project) => (
