@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
           <div className="sm:col-span-2 lg:col-span-1">
-            <Logo className="[&_span:first-child]:bg-white [&_span:first-child]:text-blue-700 [&_span:last-child]:border-white [&_span:last-child]:text-white" />
+            <Logo />
             <p className="mt-4 text-sm text-blue-200 leading-relaxed max-w-xs">
               {siteConfig.description}
             </p>

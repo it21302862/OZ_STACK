@@ -28,13 +28,13 @@ As we begin our journey, we're committed to delivering innovative technology bac
     id: "healthsync-launch",
     title: "Why Automation Matters More Than Ever",
     excerpt:
-`Many businesses continue to rely on manual processes that consume valuable time and increase the risk of human error. At Ozstack, we believe technology should simplify operations—not complicate them.
+`Many businesses continue to rely on manual processes that consume valuable time and increase the risk of human error. At Ozstack, we believe technology should simplify operations not complicate them.
 
 By automating repetitive tasks and streamlining workflows, organizations can improve productivity, reduce operational costs, and allow employees to focus on more meaningful work.
 
 Our automation-first approach ensures every solution we build is designed to maximize efficiency while remaining flexible enough to grow alongside your business.
 
-Automation isn't just about replacing manual work—it's about creating smarter ways to achieve better results.`,
+Automation isn't just about replacing manual work, it's about creating smarter ways to achieve better results.`,
     date: "2026-07-04",
     category: "Projects",
     image:
