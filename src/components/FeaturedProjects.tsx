@@ -9,7 +9,7 @@ export default function FeaturedProjects() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <SectionHeading
           title="Featured Projects"
-          subtitle="A selection of solutions we've delivered for clients across industries. Replace these with your real portfolio when ready."
+          subtitle="A selection of solutions we've delivered for clients across industries."
         />
 
         <div className="mt-10 sm:mt-14 space-y-8">

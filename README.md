@@ -21,7 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 | `/products` | In-house products |
 | `/case-studies` | Project portfolio (placeholder data) |
 | `/news` | News & insights |
-| `/careers` | Open job listings |
 | `/contact` | Contact form |
 
 ## Customization

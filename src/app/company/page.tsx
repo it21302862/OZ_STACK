@@ -7,12 +7,11 @@ export const metadata: Metadata = {
   description: `Learn about ${siteConfig.name} — our mission, values, and the team behind our IT solutions.`,
 };
 
-const stats = [
-  { value: "50+", label: "Projects Delivered" },
-  { value: "30+", label: "Team Members" },
-  { value: "8+", label: "Years of Experience" },
-  { value: "12", label: "Countries Served" },
-];
+// const stats = [
+//   { value: "50+", label: "Projects Delivered" },
+//   { value: "30+", label: "Team Members" },
+//   { value: "8+", label: "Years of Experience" },
+// ];
 
 const values = [
   {
@@ -43,7 +42,7 @@ export default function CompanyPage() {
       title="About OZSTACK"
       subtitle="We're a team of engineers, designers, and strategists helping businesses build software that actually works."
     >
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-16 sm:mb-20">
+      {/* <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-16 sm:mb-20">
         {stats.map((stat) => (
           <div
             key={stat.label}
@@ -55,20 +54,21 @@ export default function CompanyPage() {
             <div className="mt-1 text-sm text-slate-500">{stat.label}</div>
           </div>
         ))}
-      </div>
+      </div> */}
 
       <div className="max-w-3xl">
         <h2 className="text-2xl font-bold text-blue-950">Our Story</h2>
         <div className="mt-4 space-y-4 text-slate-500 leading-relaxed">
           <p>
-            OZSTACK was founded with a simple belief: businesses deserve software
-            that fits the way they work — not the other way around. What started
-            as a small development shop has grown into a full-service IT company
-            serving clients across healthcare, logistics, fintech, and more.
+            Ozstack was born from a simple idea: businesses deserve software that works for them, not against them. 
+            We started Ozstack to bring modern, automation-first development to Australian businesses tired of slow timelines, 
+            manual processes, 
+            and outdated software practices.
           </p>
           <p>
-            Today, we combine deep technical expertise with a practical,
-            business-minded approach. Whether you need a custom platform, cloud
+            Today, we combine deep technical expertise with a hands-on, business-minded approach 
+            helping you move from idea to launch with less friction and faster results.
+            Whether you need a custom platform, cloud
             migration, or an AI-powered automation layer, we partner with you from
             discovery through launch and beyond.
           </p>

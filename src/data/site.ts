@@ -5,8 +5,8 @@ export const siteConfig = {
     "OZSTACK is an IT company delivering custom software, cloud infrastructure, and digital transformation for businesses worldwide.",
   url: "https://ozstack.com",
   email: "hello@ozstack.com",
-  phone: "+1 (555) 012-3456",
-  address: "123 Innovation Drive, Tech City, TC 10001",
+  phone: "+61 466 644 316",
+  address: "25 Melaleuca St, Armstrong Creek VIC 3217",
 };
 
 export const navLinks = [
@@ -15,7 +15,7 @@ export const navLinks = [
   { label: "Products", href: "/products" },
   { label: "Case Studies", href: "/case-studies" },
   { label: "News", href: "/news" },
-  { label: "Careers", href: "/careers" },
+  // { label: "Careers", href: "/careers" },
 ];
 
 export const clientLogos = [

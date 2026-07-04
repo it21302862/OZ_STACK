@@ -14,10 +14,9 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 sm:mt-8 text-base sm:text-lg text-slate-500 leading-relaxed max-w-2xl mx-auto">
-            Trusted by NovaTech, BluePeak, DataFlow, and 50+ businesses globally
-            to eliminate manual work, reduce errors, and deliver software{" "}
+            Ozstack helps Australian businesses eliminate manual work, reduce errors, and deliver software faster through a modern, automation-first approach. Our streamlined development process is built to save you time and{" "}
             <strong className="text-blue-900 font-semibold">
-              165% faster than traditional development.
+              cost without compromising on quality.
             </strong>
           </p>
 

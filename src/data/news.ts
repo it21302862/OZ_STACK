@@ -9,43 +9,51 @@ export interface NewsArticle {
 
 export const newsArticles: NewsArticle[] = [
   {
-    id: "ozstack-expands-cloud",
-    title: "OZSTACK Expands Cloud Services Division",
+    id: "Welcome to Ozstack",
+    title: "Welcome to Ozstack – Smarter Software Starts Here",
     excerpt:
-      "We're growing our cloud infrastructure team to meet rising demand for migration and managed services across the region.",
-    date: "2025-05-12",
+      `Ozstack is proud to introduce a modern, automation-first software development company dedicated to helping Australian businesses streamline operations and embrace digital transformation.
+
+Our mission is simple: eliminate repetitive manual work, reduce operational errors, and deliver reliable software solutions that help businesses grow faster and work smarter.
+
+Whether it's developing custom business applications, automating workflows, or integrating existing systems, our team focuses on building scalable solutions that save time, improve efficiency, and create lasting value.
+
+As we begin our journey, we're committed to delivering innovative technology backed by quality, transparency, and long-term partnerships.`,
+    date: "2026-07-04",
     category: "Company",
     image:
       "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=500&fit=crop",
   },
   {
     id: "healthsync-launch",
-    title: "HealthSync Platform Goes Live with MedCore Health",
+    title: "Why Automation Matters More Than Ever",
     excerpt:
-      "Our latest healthcare project is now serving 40+ clinics with unified patient records and automated lab integrations.",
-    date: "2025-04-03",
+`Many businesses continue to rely on manual processes that consume valuable time and increase the risk of human error. At Ozstack, we believe technology should simplify operations—not complicate them.
+
+By automating repetitive tasks and streamlining workflows, organizations can improve productivity, reduce operational costs, and allow employees to focus on more meaningful work.
+
+Our automation-first approach ensures every solution we build is designed to maximize efficiency while remaining flexible enough to grow alongside your business.
+
+Automation isn't just about replacing manual work—it's about creating smarter ways to achieve better results.`,
+    date: "2026-07-04",
     category: "Projects",
     image:
       "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=500&fit=crop",
   },
   {
     id: "ai-automation-trends",
-    title: "5 Trends Shaping AI Automation in 2025",
+    title: "Our Commitment to Innovation",
     excerpt:
-      "From agentic workflows to edge AI, here are the trends our engineering team is watching closely this year.",
-    date: "2025-03-18",
+      `Technology is evolving rapidly, and businesses need software partners who can adapt just as quickly.
+
+At Ozstack, innovation is at the heart of everything we do. We continuously explore emerging technologies, modern development practices, and automation strategies to build future-ready software solutions.
+
+Our streamlined development process enables us to deliver projects faster while maintaining high standards of quality, security, and scalability.
+
+As we continue to grow, we look forward to helping more businesses transform their ideas into powerful digital solutions.`,
+    date: "2026-07-04",
     category: "Insights",
     image:
       "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=500&fit=crop",
-  },
-  {
-    id: "team-growth-2025",
-    title: "OZSTACK Welcomes 15 New Engineers",
-    excerpt:
-      "Our team is growing! We're excited to welcome talented developers, designers, and DevOps engineers to OZSTACK.",
-    date: "2025-02-07",
-    category: "Company",
-    image:
-      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=500&fit=crop",
   },
 ];

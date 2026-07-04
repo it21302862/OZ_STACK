@@ -32,7 +32,7 @@ export default function ServicesPage() {
     <>
       <PageLayout
         title="Our Services"
-        subtitle="Comprehensive IT solutions from strategy to deployment — tailored to your industry and scale."
+        subtitle="Comprehensive IT solutions from strategy to deployment tailored to your industry and scale."
       >
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {services.map((service) => {
